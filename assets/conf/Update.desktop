@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Icon=~/.local/share/icons/update/icon.png
+Name=Mise à jour
+Name[fr]=Mise à jour
+Name[fr_FR]=Mise à jour
+Name[fr_FR.UTF-8]=Mise à jour
+Categories=System
+Exec=topgrade
+Hidden=false
+NoDisplay=false
+StartupNotify=false
+Terminal=true
