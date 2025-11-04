@@ -25,8 +25,6 @@ EOF
 mkfs.fat -F32 "/dev/mmcblk0p1"
 mkfs.btrfs -L "UNOWHY_y13" "/dev/mmcblk0p2"
 
-loadkeys fr-azerty1
-
 echo "Configuration du système..."
 echo Y | pacman -Syy && echo Y | pacman -S reflector
 cp /etc/pacman.d/mirrorlist /etc/pacman.d/mirrorlist.bak
