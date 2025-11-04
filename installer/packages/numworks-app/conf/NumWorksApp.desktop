@@ -1,0 +1,18 @@
+[Desktop Entry]
+Type=Application
+Icon=/home/sam/.local/share/icons/numworks/icon.png
+Name=NumWorks
+Name[fr]=NumWorks
+Name[fr_FR]=NumWorks
+Name[fr_FR.UTF-8]=NumWorks
+Comment=Un émulateur NumWorks hors ligne.
+Comment[fr]=Un émulateur NumWorks hors ligne.
+Comment[fr_FR]=Un émulateur NumWorks hors ligne.
+Comment[fr_FR.UTF-8]=Un émulateur NumWorks hors ligne.
+Categories=Education;Science
+Exec=~/Apps/numworks/simulator.sh
+Hidden=false
+NoDisplay=false
+StartupNotify=true
+Terminal=false
+
